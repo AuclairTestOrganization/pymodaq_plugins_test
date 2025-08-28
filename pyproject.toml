@@ -17,8 +17,7 @@ dependencies = [
 ]
 
 authors = [
-    {name = "Name Surname", email = "myname@test.fr"},
-    #todo: list here all authors of your plugin
+    {name = "Cyril Auclair", email = "cyril.auclair@insa-lyon.fr"},
 ]
 maintainers = [
     {name = "Name Surname", email = "myname@test.fr"},
